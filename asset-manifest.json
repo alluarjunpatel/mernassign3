@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mernassign3/static/css/main.2666721d.css",
+    "main.js": "/mernassign3/static/js/main.eaa2def7.js",
+    "static/js/453.cb69641a.chunk.js": "/mernassign3/static/js/453.cb69641a.chunk.js",
+    "index.html": "/mernassign3/index.html",
+    "main.2666721d.css.map": "/mernassign3/static/css/main.2666721d.css.map",
+    "main.eaa2def7.js.map": "/mernassign3/static/js/main.eaa2def7.js.map",
+    "453.cb69641a.chunk.js.map": "/mernassign3/static/js/453.cb69641a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2666721d.css",
+    "static/js/main.eaa2def7.js"
+  ]
+}
